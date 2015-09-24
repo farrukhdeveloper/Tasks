@@ -23,7 +23,17 @@ For Source Code Review and Debugging: Download the Source Code Zip file and Extr
 
 When application will open in Browser you will see Home Screen of Sequence Generator, It will require you to enter any numeric value for generating any sequence. After entering some numerice value, click on Submit button. 
 
-When you click on submit button new screen will be showed to you with 5 types of sequences. 
+When you click on submit button new screen will be showed to you with following 5 types of sequences:
+
+1 All numbers up to and including the number entered,
+2 All odd numbers up to and including the number entered,
+3 All even numbers up to and including the number entered,
+4 All numbers up to and including the number entered, except
+when,
+4.1 A number is a multiple of 3 output C, and when,
+4.2 A number is a multiple of 5 output E, and when,
+4.3 A number is a multiple of both 3 and 5 output Z,
+5 All fibonacci number up to and including the number entered.
 
 
 
